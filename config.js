@@ -14,5 +14,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối thứ 7 lúc 18h nha babe :333.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/cuongquocit/' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/itgamo2002' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
