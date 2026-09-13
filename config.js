@@ -12,7 +12,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'Em đồng ý làm người yêu anh <33333333',
     mess: 'Anh biết mà 🥰. Anh cũng thích em lắm á 😘😘',
-    messDesc: 'Tối thứ 6 ngày mai lúc 18h nha babe :333.',
+    messDesc: 'Tối thứ 4 tuần sau lúc 18h30 nha babe :333.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/itgamo2002' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
